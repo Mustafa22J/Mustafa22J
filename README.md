@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mustafa Jawish 🚀
+### Software Engineering Student | Passionate About Java & Linux Automation
 
-<!--
-**Mustafa22J/Mustafa22J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a **Computer Engineering student** at Algonquin College, specializing in **Java, C, and Linux system automation**. I enjoy building **scalable applications** and exploring **low-level computing concepts**.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Technologies
+- **Languages:** Java, C, C++, Python, Bash
+- **Development:** OOP, Data Structures, Algorithms
+- **Web:** HTML, CSS, JavaScript, PHP, SQL
+- **OS & Tools:** Linux, Git, Docker, VS Code, Eclipse, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **[Online Shopping System](https://github.com/Mustafa22J/Online_Shopping_System)** (Java, OOP)
+- **[Library Management System](https://github.com/Mustafa22J/Library_Management_System)** (Java, SQL)
+- **[Linux System Automation](https://github.com/Mustafa22J/Linux_System_Automation)** (Shell Scripting, Bash)
+
+### 📫 Contact
+📩 [Email](mailto:your_email@example.com) | 📝 [LinkedIn](https://www.linkedin.com/in/your-profile)
